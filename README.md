@@ -4,7 +4,11 @@
 
 
 ## Table of Contents
+<<<<<<< HEAD
  
+=======
+
+>>>>>>> hister
 - [Fonctionnalités](#Fonctionnalités)
 - [Installation](#installation)
 - [Utilisation](#Utilisation)
