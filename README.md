@@ -39,12 +39,6 @@ CLIENT_SECRET=<Votre secret client Spotify>
 REDIRECT_URI=<Votre URI de redirection Spotify>
 ```
 
-or upgrade
-
-```bash
-pip install spotipy --upgrade
-```
-
 ## Utilisation
 
 Pour utiliser Hitster, exécutez la commande suivante:
