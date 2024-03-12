@@ -39,6 +39,8 @@
 7. Ajout des URI à la playlist.
 8. Parcours de la playlist pour récupérer les URL, dates et QR codes.
 
+![Hitster Image](Diagramme_de_classe.png)
+
 ## Installation
 
 Pour exécuter Hitster, suivez ces étapes :
