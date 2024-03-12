@@ -13,7 +13,7 @@
 
 ## 🛠️ Prérequis
 
-- Avoir un compte Spotify.
+- Avoir un compte Spotify. 
 - Générer CLIENT_ID et CLIENT_SECRET à l'aide de l'API Spotify.
 - Installer Python 3.x sur votre système.
 
@@ -30,7 +30,7 @@
 
 ### 📊 Diagramme de Classe
 
-![Hitster Image](hitster_diagramme_de_classe.png)
+![Hitster Image](Diagramme_de_classe.png)
 
 ## 💻 Installation
 
