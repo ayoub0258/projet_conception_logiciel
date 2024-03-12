@@ -33,7 +33,7 @@
 1. Récupération des informations des utilisateurs : l'utilisateur doit d'abord créer un compte sur l'API Spotify.
 2. Génération d'un token d'accès stocké dans le fichier .cach, en utilisant la bibliothèque Spotipy.
 3. Création de la playlist et récupération de ses informations.
-4. Parcours d'un fichier CSV contenant des chansons.
+4. Parcours d'un fichier CSV contenant des chansons."Vous pouvez choisir les chansons que vous voulez et les mettre dans le fichier chansons.csv sans toucher à la 1er ligne (Titre, Artiste)"
 5. Pour chaque chanson, recherche des informations via son titre.
 6. Récupération des URI nécessaires.
 7. Ajout des URI à la playlist.
