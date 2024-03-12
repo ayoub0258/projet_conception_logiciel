@@ -39,6 +39,8 @@
 7. Ajout des URI à la playlist.
 8. Parcours de la playlist pour récupérer les URL, dates et QR codes.
 
+### Diagramme de Classe
+
 ![Hitster Image](Diagramme_de_classe.png)
 
 ## Installation
