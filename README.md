@@ -25,7 +25,7 @@
 4. Parcours d'un fichier CSV contenant des chansons."Vous pouvez choisir les chansons que vous voulez et les mettre dans le fichier chansons.csv sans toucher à la 1er ligne (Titre, Artiste)"
 5. Pour chaque chanson, recherche des informations via son titre.
 6. Récupération des URI nécessaires.
-7. Ajout des URI à la playlist.
+7. Ajout de la chanson récupérée dans la playlist créee.
 8. Parcours de la playlist pour récupérer les URL, dates et QR codes.
 
 ### 📊 Diagramme de Classe
